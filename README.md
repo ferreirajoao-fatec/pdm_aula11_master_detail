@@ -1,17 +1,50 @@
-# pdm_aula11_master_detail
+# PDM I — Aula 11: Navegação com API — Fluxo Lista/Detalhe (Master-Detail)
 
-A new Flutter project.
+Aplicativo Flutter que carrega uma lista de notícias via API REST e, ao tocar em um item, navega para a tela de detalhes passando o objeto `NoticiaModel` pelo construtor — sem refazer a requisição de rede.
 
-## Getting Started
+**Disciplina:** Programação para Dispositivos Móveis I — Prof. Diego Menegassi — 2026/2
 
-This project is a starting point for a Flutter application.
+## Conceitos aplicados
 
-A few resources to get you started if this is your first Flutter project:
+| Conceito | Implementação |
+|---|---|
+| Padrão Master-Detail | `ListView.builder` → `DetalheNoticiaScreen` |
+| Passagem de objetos | `Navigator.push(context, MaterialPageRoute(...))` com `NoticiaModel` |
+| Layout de detalhes | `SingleChildScrollView` + `Column` com imagem, autor, título e conteúdo |
+| Otimização de rede | Reutilização do model já carregado na lista |
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Desafios implementados
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Básico — Hero Animation:** imagem da lista e da tela de detalhes envolvidas em `Hero(tag: noticia.id)`.
+- **Intermediário — Favoritar:** botão de coração na tela de detalhes; o estado retorna para a lista via `Navigator.pop(context, favorito)` e o item é marcado.
+- **Avançado — Comentários:** a tela de detalhes faz uma segunda chamada à API e exibe os comentários da notícia.
+
+## Capturas de tela
+
+| Feed | Detalhes (favoritado) | Comentários | Feed com favorito |
+|:---:|:---:|:---:|:---:|
+| <img src="prints/01_feed.png" width="200"> | <img src="prints/02_detalhes_favorito.png" width="200"> | <img src="prints/03_comentarios.png" width="200"> | <img src="prints/04_feed_favoritado.png" width="200"> |
+
+## Estrutura
+
+```
+lib/
+├── main.dart
+├── models/
+│   ├── noticia_model.dart
+│   └── comentario_model.dart
+├── services/noticia_service.dart
+└── screens/
+    ├── feed_noticias_screen.dart
+    └── detalhe_noticia_screen.dart
+api/
+├── noticias.json        # lista de notícias
+└── comentarios/{id}.json  # comentários de cada notícia
+```
+
+## Como executar
+
+```bash
+flutter pub get
+flutter run
+```

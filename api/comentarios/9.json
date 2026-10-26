@@ -1,0 +1,23 @@
+[
+  {
+    "postId": 9,
+    "id": 21,
+    "name": "Vanessa Cardoso",
+    "email": "vanessa21@exemplo.com",
+    "body": "As novas pontes ficaram lindas, recomendo a trilha do mirante."
+  },
+  {
+    "postId": 9,
+    "id": 22,
+    "name": "Eduardo Pinto",
+    "email": "eduardo22@exemplo.com",
+    "body": "Agendei para o próximo sábado com a turma do colégio."
+  },
+  {
+    "postId": 9,
+    "id": 23,
+    "name": "Aline Barbosa",
+    "email": "aline23@exemplo.com",
+    "body": "Importante respeitar as regras e não deixar lixo nas trilhas."
+  }
+]

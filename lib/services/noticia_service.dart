@@ -4,8 +4,10 @@ import '../models/comentario_model.dart';
 import '../models/noticia_model.dart';
 
 class NoticiaService {
-  static const String _baseUrl = 'https://jsonplaceholder.typicode.com';
-  static const String _endpoint = '$_baseUrl/posts';
+  // Dados em JSON hospedados no próprio repositório (pasta api/)
+  static const String _baseUrl =
+      'https://raw.githubusercontent.com/ferreirajoao-fatec/pdm_aula11_master_detail/main/api';
+  static const String _endpoint = '$_baseUrl/noticias.json';
 
   Future<List<NoticiaModel>> buscarNoticias() async {
     final response = await http.get(Uri.parse(_endpoint));
@@ -20,7 +22,7 @@ class NoticiaService {
 
   // Desafio Avançado: segunda chamada à API para os comentários da notícia
   Future<List<ComentarioModel>> buscarComentarios(int noticiaId) async {
-    final response = await http.get(Uri.parse('$_endpoint/$noticiaId/comments'));
+    final response = await http.get(Uri.parse('$_baseUrl/comentarios/$noticiaId.json'));
 
     if (response.statusCode == 200) {
       final List<dynamic> listaJson = jsonDecode(response.body);

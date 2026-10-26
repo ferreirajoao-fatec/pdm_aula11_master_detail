@@ -1,0 +1,23 @@
+[
+  {
+    "postId": 3,
+    "id": 6,
+    "name": "Paulo Henrique",
+    "email": "paulo6@exemplo.com",
+    "body": "Hora de tirar os casacos do armário."
+  },
+  {
+    "postId": 3,
+    "id": 7,
+    "name": "Juliana Rocha",
+    "email": "juliana7@exemplo.com",
+    "body": "Obrigada pelo aviso, vou evitar sair no fim da tarde."
+  },
+  {
+    "postId": 3,
+    "id": 8,
+    "name": "Carlos Eduardo",
+    "email": "carlos8@exemplo.com",
+    "body": "Tomara que a chuva ajude a encher os reservatórios."
+  }
+]

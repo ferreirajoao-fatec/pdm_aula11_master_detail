@@ -1,0 +1,16 @@
+[
+  {
+    "postId": 4,
+    "id": 9,
+    "name": "Ana Clara",
+    "email": "ana9@exemplo.com",
+    "body": "Meus filhos adoram a contação de histórias, vamos no domingo!"
+  },
+  {
+    "postId": 4,
+    "id": 10,
+    "name": "Rafael Souza",
+    "email": "rafael10@exemplo.com",
+    "body": "O acervo digital é excelente, uso sempre pelo celular."
+  }
+]

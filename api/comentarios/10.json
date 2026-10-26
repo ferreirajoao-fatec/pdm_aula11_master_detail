@@ -1,0 +1,16 @@
+[
+  {
+    "postId": 10,
+    "id": 24,
+    "name": "Roberto Dias",
+    "email": "roberto24@exemplo.com",
+    "body": "Se reduz a espera, é muito bem-vindo."
+  },
+  {
+    "postId": 10,
+    "id": 25,
+    "name": "Sabrina Teixeira",
+    "email": "sabrina25@exemplo.com",
+    "body": "Bom que a decisão final continua com a enfermagem."
+  }
+]

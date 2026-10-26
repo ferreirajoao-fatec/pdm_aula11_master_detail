@@ -1,0 +1,23 @@
+[
+  {
+    "postId": 7,
+    "id": 16,
+    "name": "Diego Santos",
+    "email": "diego16@exemplo.com",
+    "body": "Que jogo! Gol nos acréscimos é emoção demais."
+  },
+  {
+    "postId": 7,
+    "id": 17,
+    "name": "Camila Ferreira",
+    "email": "camila17@exemplo.com",
+    "body": "Já estou na fila virtual para os ingressos."
+  },
+  {
+    "postId": 7,
+    "id": 18,
+    "name": "Bruno Oliveira",
+    "email": "bruno18@exemplo.com",
+    "body": "Agora é foco total na final, rumo ao título!"
+  }
+]

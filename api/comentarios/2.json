@@ -1,0 +1,16 @@
+[
+  {
+    "postId": 2,
+    "id": 4,
+    "name": "Lucas Pereira",
+    "email": "lucas4@exemplo.com",
+    "body": "Já usei o app e economizei bastante no mercado da semana."
+  },
+  {
+    "postId": 2,
+    "id": 5,
+    "name": "Fernanda Costa",
+    "email": "fernanda5@exemplo.com",
+    "body": "Muito legal ver ex-alunos de curso técnico empreendendo assim!"
+  }
+]

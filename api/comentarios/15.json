@@ -1,0 +1,23 @@
+[
+  {
+    "postId": 15,
+    "id": 36,
+    "name": "Sérgio Campos",
+    "email": "sergio36@exemplo.com",
+    "body": "Vai ajudar muito quem estuda à noite."
+  },
+  {
+    "postId": 15,
+    "id": 37,
+    "name": "Natália Vieira",
+    "email": "natalia37@exemplo.com",
+    "body": "Carregador USB no ônibus é uma ótima ideia."
+  },
+  {
+    "postId": 15,
+    "id": 38,
+    "name": "André Monteiro",
+    "email": "andre38@exemplo.com",
+    "body": "Espero que a linha se torne definitiva depois dos 90 dias."
+  }
+]

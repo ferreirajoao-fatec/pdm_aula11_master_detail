@@ -1,0 +1,23 @@
+[
+  {
+    "postId": 1,
+    "id": 1,
+    "name": "Mariana Lopes",
+    "email": "mariana1@exemplo.com",
+    "body": "Finalmente! Vou poder ir de bicicleta para o trabalho com mais segurança."
+  },
+  {
+    "postId": 1,
+    "id": 2,
+    "name": "Ricardo Alves",
+    "email": "ricardo2@exemplo.com",
+    "body": "Espero que façam também a manutenção das ciclovias que já existem."
+  },
+  {
+    "postId": 1,
+    "id": 3,
+    "name": "Beatriz Nunes",
+    "email": "beatriz3@exemplo.com",
+    "body": "Ótima iniciativa, mas precisa ter bicicletário nos terminais."
+  }
+]

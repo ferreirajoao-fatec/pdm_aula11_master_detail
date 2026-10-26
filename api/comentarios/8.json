@@ -1,0 +1,16 @@
+[
+  {
+    "postId": 8,
+    "id": 19,
+    "name": "Renata Lima",
+    "email": "renata19@exemplo.com",
+    "body": "Trabalho remoto mudou minha qualidade de vida."
+  },
+  {
+    "postId": 8,
+    "id": 20,
+    "name": "Felipe Araújo",
+    "email": "felipe20@exemplo.com",
+    "body": "Concordo sobre a dificuldade de separar trabalho e vida pessoal."
+  }
+]

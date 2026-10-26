@@ -1,0 +1,92 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Prefeitura anuncia ampliação de ciclovias na região central",
+    "body": "O plano prevê 18 km de novas ciclovias interligando terminais de ônibus, escolas e parques. As obras devem começar no próximo trimestre e serão executadas em etapas para reduzir o impacto no trânsito.\nSegundo a secretaria de mobilidade, a expectativa é dobrar o número de viagens de bicicleta até o fim de 2027."
+  },
+  {
+    "userId": 2,
+    "id": 2,
+    "title": "Startup local desenvolve aplicativo para reduzir desperdício de alimentos",
+    "body": "Criado por ex-alunos de um curso técnico, o aplicativo conecta supermercados e restaurantes a consumidores interessados em comprar produtos próximos da data de validade com descontos de até 70%.\nEm seis meses de operação, a plataforma já evitou o descarte de mais de 12 toneladas de alimentos."
+  },
+  {
+    "userId": 3,
+    "id": 3,
+    "title": "Frente fria deve derrubar temperaturas a partir de quinta-feira",
+    "body": "A previsão indica queda de até 10 °C entre quarta e sexta-feira, com possibilidade de chuva forte no fim da tarde. A Defesa Civil recomenda atenção em áreas sujeitas a alagamento.\nNo fim de semana, o tempo deve permanecer frio pela manhã, com sol entre nuvens à tarde."
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Biblioteca municipal passa a funcionar aos domingos",
+    "body": "A partir deste mês, a biblioteca abrirá das 9h às 15h aos domingos, com programação de contação de histórias para crianças e oficinas de leitura para adultos.\nO acervo digital também foi ampliado e agora conta com mais de 5 mil e-books disponíveis para empréstimo gratuito."
+  },
+  {
+    "userId": 4,
+    "id": 5,
+    "title": "Feira de tecnologia reúne projetos de estudantes de ensino técnico",
+    "body": "Mais de 80 projetos foram apresentados, incluindo robôs de baixo custo, sistemas de irrigação automatizada e aplicativos de acessibilidade. A comissão avaliadora destacou o uso de hardware reaproveitado.\nOs três primeiros colocados receberão bolsas de incubação para transformar os protótipos em produtos."
+  },
+  {
+    "userId": 2,
+    "id": 6,
+    "title": "Campanha de vacinação contra a gripe é prorrogada até o fim do mês",
+    "body": "A prorrogação foi motivada pela baixa adesão de alguns grupos prioritários, como gestantes e crianças menores de seis anos. As doses estão disponíveis em todas as unidades básicas de saúde.\nÉ necessário apresentar documento com foto e, se possível, a carteira de vacinação."
+  },
+  {
+    "userId": 5,
+    "id": 7,
+    "title": "Time da cidade conquista vaga na final do campeonato estadual",
+    "body": "Com uma vitória por 2 a 1 nos acréscimos, a equipe garantiu a classificação para a decisão, que será disputada em jogos de ida e volta nas próximas duas semanas.\nA diretoria informou que a venda de ingressos começa na segunda-feira, com prioridade para sócios-torcedores."
+  },
+  {
+    "userId": 3,
+    "id": 8,
+    "title": "Pesquisa aponta crescimento do trabalho remoto no setor de serviços",
+    "body": "O levantamento ouviu 2.400 profissionais e indica que 38% trabalham de casa ao menos dois dias por semana. Entre os benefícios citados estão a redução do tempo de deslocamento e maior flexibilidade.\nPor outro lado, 41% relataram dificuldade em separar a vida pessoal do trabalho."
+  },
+  {
+    "userId": 4,
+    "id": 9,
+    "title": "Parque estadual reabre trilhas após reforma",
+    "body": "Quatro trilhas foram revitalizadas, com nova sinalização, pontes de madeira certificada e mirantes. A visitação é gratuita, mas exige agendamento prévio pelo site do parque.\nGuias ambientais estarão disponíveis aos sábados para passeios educativos com grupos de até 15 pessoas."
+  },
+  {
+    "userId": 5,
+    "id": 10,
+    "title": "Inteligência artificial passa a ajudar na triagem de pacientes em hospital público",
+    "body": "O sistema analisa sintomas informados na recepção e sugere a prioridade de atendimento, que é sempre confirmada por um profissional de enfermagem. O tempo médio de espera caiu 22% na fase de testes.\nA direção do hospital afirma que os dados dos pacientes são anonimizados e armazenados de acordo com a LGPD."
+  },
+  {
+    "userId": 1,
+    "id": 11,
+    "title": "Mercado de trabalho para desenvolvedores mobile segue aquecido",
+    "body": "Vagas para desenvolvedores Flutter e Kotlin cresceram 27% no último ano, segundo plataformas de recrutamento. Empresas de varejo e bancos digitais lideram as contratações.\nEspecialistas recomendam que iniciantes publiquem projetos no GitHub para demonstrar experiência prática."
+  },
+  {
+    "userId": 2,
+    "id": 12,
+    "title": "Festival gastronômico movimenta o centro histórico neste fim de semana",
+    "body": "Cerca de 40 restaurantes e produtores locais participam do evento, com pratos a preços fixos e apresentações musicais ao ar livre. A organização espera receber 30 mil visitantes.\nHaverá bicicletário e espaço kids, e as ruas do entorno terão o trânsito desviado a partir das 10h."
+  },
+  {
+    "userId": 3,
+    "id": 13,
+    "title": "Energia solar em residências bate recorde no estado",
+    "body": "O número de casas com painéis fotovoltaicos cresceu 35% em relação ao ano anterior. A queda no preço dos equipamentos e as linhas de financiamento facilitaram a adesão.\nConsumidores relatam economia média de 80% na conta de luz após a instalação."
+  },
+  {
+    "userId": 4,
+    "id": 14,
+    "title": "Curso gratuito de programação abre 500 vagas para jovens",
+    "body": "As aulas serão online e abordam lógica de programação, desenvolvimento web e criação de aplicativos móveis. Podem se inscrever jovens de 16 a 24 anos que estejam cursando ou tenham concluído o ensino médio.\nOs melhores alunos serão indicados para programas de estágio em empresas parceiras."
+  },
+  {
+    "userId": 5,
+    "id": 15,
+    "title": "Nova linha de ônibus vai ligar bairros da zona norte à universidade",
+    "body": "A linha terá partidas a cada 15 minutos nos horários de pico e contará com veículos equipados com ar-condicionado e carregadores USB. O trajeto completo deve levar cerca de 40 minutos.\nA operação começa em caráter experimental por 90 dias, quando será avaliada a demanda."
+  }
+]

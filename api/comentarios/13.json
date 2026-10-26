@@ -1,0 +1,23 @@
+[
+  {
+    "postId": 13,
+    "id": 31,
+    "name": "Cláudia Mendes",
+    "email": "claudia31@exemplo.com",
+    "body": "Instalei no começo do ano e a conta caiu muito."
+  },
+  {
+    "postId": 13,
+    "id": 32,
+    "name": "Rodrigo Batista",
+    "email": "rodrigo32@exemplo.com",
+    "body": "Os financiamentos facilitaram bastante a instalação."
+  },
+  {
+    "postId": 13,
+    "id": 33,
+    "name": "Priscila Antunes",
+    "email": "priscila33@exemplo.com",
+    "body": "Energia limpa e economia, só vantagens."
+  }
+]
